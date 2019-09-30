@@ -1,0 +1,19 @@
+total 60
+drwxr-xr-x 7 ubuntu ubuntu 4096 Sep 29 21:12 .
+drwxr-xr-x 3 root   root   4096 Sep 27 22:57 ..
+-rw------- 1 ubuntu ubuntu  244 Sep 29 21:12 .Xauthority
+-rw------- 1 ubuntu ubuntu 2167 Sep 29 17:47 .bash_history
+-rw-r--r-- 1 ubuntu ubuntu  220 Apr  4  2018 .bash_logout
+-rw-r--r-- 1 ubuntu ubuntu 3771 Apr  4  2018 .bashrc
+drwx------ 2 ubuntu ubuntu 4096 Sep 27 23:26 .cache
+drwx------ 3 ubuntu ubuntu 4096 Sep 27 23:26 .gnupg
+-rw-r--r-- 1 ubuntu ubuntu  807 Apr  4  2018 .profile
+drwx------ 2 ubuntu ubuntu 4096 Sep 27 22:57 .ssh
+-rw-r--r-- 1 ubuntu ubuntu    0 Sep 28 19:19 .sudo_as_admin_successful
+drwxr-xr-x 2 root   root   4096 Sep 28 19:19 Documents
+-rw-rw-r-- 1 ubuntu ubuntu   58 Sep 29 17:42 mynotes.txt
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 29 21:13 out.txt
+drwxrwxr-x 7 ubuntu ubuntu 4096 Sep 28 21:22 save
+-rw-rw-r-- 1 ubuntu ubuntu    0 Sep 27 23:34 save.txt
+-rw-rw-r-- 1 ubuntu ubuntu  160 Sep 29 17:39 test.txt
+-rw-rw-r-- 1 ubuntu ubuntu   21 Sep 28 22:12 text.txt

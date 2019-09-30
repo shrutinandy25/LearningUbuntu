@@ -1,0 +1,6 @@
+I am about to clear everything
+here its interesting and its adding an extra line to my text
+now lets see the changes
+cat test.txt
+everything got added
+great !!
